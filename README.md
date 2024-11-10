@@ -1,1 +1,1 @@
-# sol-watcher
+# Solana Trending

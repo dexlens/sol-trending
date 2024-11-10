@@ -1,1 +1,1 @@
-# Solana Trending
+# SOL Trending Bot
